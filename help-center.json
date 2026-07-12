@@ -1,0 +1,38 @@
+[
+  {
+    "name": "WhatsApp",
+    "url": "https://api.whatsapp.com/send/+967770442646",
+    "text": "hello",
+    "image": "/help-center/whatsapp.png"
+  },
+  {
+    "name": "Telegram",
+    "url": "https://t.me/brightness909",
+    "text": "hello",
+    "image": "/help-center/telegram.png"
+  },
+  {
+    "name": "Phone",
+    "url": "tel:+967770442646",
+    "text": "hello",
+    "image": "/help-center/phone.png"
+  },
+  {
+    "name": "SMS",
+    "url": "sms:+967770442646",
+    "text": "hello",
+    "image": "/help-center/sms.png"
+  },
+  {
+    "name": "Email",
+    "url": "mailto:horizonfortravelsl@gmail.com",
+    "text": "hello",
+    "image": "/help-center/email.png"
+  },
+  {
+    "name": "Website",
+    "url": "https://www.alzajeltravel.com/mobile.alzajeltravel.com",
+    "text": null,
+    "image": "/help-center/web.png"
+  }
+]
